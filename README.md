@@ -1,37 +1,11 @@
-dbyll
-=====
+doroci's 기술 블로그
+=====  
 
-Open source stylish, minimalistic theme for jekyll.  
-Demo: http://dbtek.github.io/dbyll/
+## comment
+* 평소 알고 있는 지식 및 향후 학습에 대한 정보들을 정리해볼까 해서 블로그를 개설하게 되었습니다.
 
-## New
-- Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-ghost) now.
-- :new: Check out [Paper](https://github.com/dbtek/paper), new Material Design Jekyll theme.
-
-### Features
-- Responsive layout.
-- Supports tags and categories.
-- Social profile and bio of author.
-- Bootstrap based.
-- Glyphicon and Font-Awesome Icons.
-- Pagination.
-- Syntax highlighting with pygments.
-- Disqus comments.
-- :new: Custom sidebar background image.
-
-
-### Download
-* [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
-
-### Install
-- You need to have [ruby](https://www.ruby-lang.org/en/documentation/installation/) installed in your system.
-- Install bundler which helps in specifying and installing dependencies of any Ruby project. ```gem install bundler```
-- Go to the root of the repo and run this - ```bundle install```
-- Then - ```bundle exec jekyll serve```
-
-### Screenshots
-![dbyll-screenshot](assets/media/dbyll-ss.png)
+### Reference
+* [Download dbyll](https://github.com/dbtek/dbyll/)
 
 ### License
 - [MIT](http://opensource.org/licenses/MIT)
-
