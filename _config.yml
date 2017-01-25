@@ -7,24 +7,24 @@ highlighter: rogue
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: doroci
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: doroci's 기술 블로그
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  name: doroci
+  email: hiiln0273@gmail.com
+  github: https://github.com/doroci
+  twitter: none
+  pinterest: none
+  linkedin: none
+  bio: SoftWare Developer
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
