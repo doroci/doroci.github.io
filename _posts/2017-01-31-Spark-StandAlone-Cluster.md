@@ -30,23 +30,39 @@ http://spark.apache.org/docs/latest/spark-standalone.html
 ### 스파크 설정 파일 복사
 ```
 1. 디렉토리: $SPARK_HOME/conf
-2. 파일복사: cp spark-env.sh.template spark-env.sh
+2. spark-env.sh 파일복사: cp spark-env.sh.template spark-env.sh
+3. spark-defaults.conf 파일복사: cp spark-defaults.conf.template spark-defaults.conf
 ```
 <br>
 
-### 스파크 설정 파일 변경
+### spark-defaults.conf 설정 변경
 ```
-1. 설정 파일열기: vim spark-env.sh
+spark-defaults.conf: 드라이버(마스터) 관련한 설정을 하는 파일이다.
+
+1. 파일 열기: vim spark-defaults.conf
+
+
+```
+
+### spark-env.sh 설정 변경
+```
+spark-env.sh: spark-submit, standAlone, yarn, memos에 관한 각종 설정을 하는 파일이다.
+
+
+1. 파일열기: vim spark-env.sh
 2. export SPARK_MASTER_HOST=호스트네임 (ex. localhost)
 3. export SPARK_WORKER_CORES=워커당 코어수 (ex. 2)
 4. export SPARK_WORKER_MEMORY=워커당 메모리용량 (ex. 1G)
 5. export SPARK_WORKER_INSTANCES=워커 인스턴스 갯수 (ex. 3)
-
 * 2~4번에 해당하는 설정을 실행 시 shell에서 입력할 수도 있다.
    - $SPARK_HOME/sbin/start-master.sh -h 호스트네임
    - $SPARK_HOME/sbin/start-slave.sh -c 코어수 -m 메모리
 ```
 <br>
+
+
+
+
 
 ### start-master.sh 실행
 ```
