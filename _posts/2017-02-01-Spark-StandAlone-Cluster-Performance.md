@@ -86,15 +86,14 @@ summary.show
 <br><br>
 
 ### 스탠드얼론 (싱글 머신) - 결과(1core)
-![standAlone-local-jobs](/image/spark/standAlone-local-jobs.png)
-![standAlone-local-stages](/image/spark/standAlone-local-stages.png)
-![standAlone-local-executors](/image/spark/standAlone-local-executors.png)
+![standAlone-local-jobs](/image/spark/standAlone-local-jobs.png)<br><br><br>
+![standAlone-local-stages](/image/spark/standAlone-local-stages.png)<br><br><br>
+![standAlone-local-executors](/image/spark/standAlone-local-executors.png)<br><br><br><br>
 
 ### 스탠드얼론 (싱글 머신) - 결과(6core)
-![standAlone-local-6core-jobs](/image/spark/standAlone-local-6core-jobs.png)
-![standAlone-local-6core-stages](/image/spark/standAlone-local-6core-stages.png)
-![standAlone-local-6core-executors](/image/spark/standAlone-local-6core-executors.png)
-
+![standAlone-local-6core-jobs](/image/spark/standAlone-local-6core-jobs.png)<br><br><br>
+![standAlone-local-6core-stages](/image/spark/standAlone-local-6core-stages.png)<br><br><br>
+![standAlone-local-6core-executors](/image/spark/standAlone-local-6core-executors.png)<br><br><br><br>
 
 ### 스탠드얼론 클러스터 (싱글 머신) - 결과
 ```
@@ -102,6 +101,6 @@ summary.show
 참고로 스탠드얼론 - 결과(6core)는 spark-submit으로 실행한 결과이다.
 최적화를 하기 위해선 다양한 요소들에 대해 고려를 해야하는데 추후에 글을 해봐야 겠다.
 ```
-![standAlone-cluster-jobs](/image/spark/standAlone-cluster-jobs.png)
-![standAlone-cluster-stages](/image/spark/standAlone-cluster-stages.png)
-![standAlone-cluster-executors](/image/spark/standAlone-cluster-executors.png)
+![standAlone-cluster-jobs](/image/spark/standAlone-cluster-jobs.png)<br><br><br>
+![standAlone-cluster-stages](/image/spark/standAlone-cluster-stages.png)<br><br><br>
+![standAlone-cluster-executors](/image/spark/standAlone-cluster-executors.png)<br><br><br><br>

@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="804ca0d0-3d2b-4f9e-9ec6-03f3c0cc7228" name="Default" comment="ㅌㅓ터">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/spark/Spark-StandAlone-Cluster-Ui-Executors.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/spark/dataset-240M.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/spark/standAlone-cluster-executors.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/spark/standAlone-cluster-jobs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/spark/standAlone-cluster-stages.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/spark/standAlone-driver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/spark/standAlone-local-6core-executors.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/spark/standAlone-local-6core-jobs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/spark/standAlone-local-6core-stages.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/spark/standAlone-local-executors.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/spark/standAlone-local-jobs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/spark/standAlone-local-stages.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/spark/standAlone-slave-ui.png" afterPath="$PROJECT_DIR$/image/spark/standAlone-slave-ui.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-01-31-Spark-StandAlone-Cluster.md" afterPath="$PROJECT_DIR$/_posts/2017-01-31-Spark-StandAlone-Cluster.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-01-Spark-StandAlone-Cluster-Performance.md" afterPath="$PROJECT_DIR$/_posts/2017-02-01-Spark-StandAlone-Cluster-Performance.md" />
     </list>
     <ignored path="doroci.github.io.iws" />
@@ -59,8 +45,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-02-01-Spark-StandAlone-Cluster-Performance.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="513">
-                <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+              <first_editor relative-caret-position="579">
+                <caret line="105" column="94" selection-start-line="105" selection-start-column="94" selection-end-line="105" selection-end-column="94" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -190,9 +176,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -245,6 +230,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -973,8 +959,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-02-01-Spark-StandAlone-Cluster-Performance.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="513">
-            <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+          <first_editor relative-caret-position="579">
+            <caret line="105" column="94" selection-start-line="105" selection-start-column="94" selection-end-line="105" selection-end-column="94" />
             <folding />
           </first_editor>
           <second_editor />
