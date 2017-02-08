@@ -91,6 +91,14 @@ summary.show
 ![standAlone-local-executors](/image/spark/standAlone-local-executors.png)<br><br><br><br>
 
 ### 스탠드얼론 (싱글 머신) - 결과(6core)
+```
+1. 로직 변경 : appName(“standAlone-cluster-test”).master("local[6]")
+
+2. bin/spark-submit \
+--master local \
+--class ch2.StandAloneTest \
+ 배포파일.jar
+```
 ![standAlone-local-6core-jobs](/image/spark/standAlone-local-6core-jobs.png)<br><br><br>
 ![standAlone-local-6core-stages](/image/spark/standAlone-local-6core-stages.png)<br><br><br>
 ![standAlone-local-6core-executors](/image/spark/standAlone-local-6core-executors.png)<br><br><br><br>
@@ -98,8 +106,7 @@ summary.show
 ### 스탠드얼론 클러스터 (싱글 머신) - 결과
 ```
 특정 Stage에서 non 클러스터에 비해 클러스터로 실행한 시간이 상당히 감소했다.(jobs에 빨간색으로 찍힌 점 )
-참고로 스탠드얼론 - 결과(6core)는 spark-submit으로 실행한 결과이다.
-최적화를 하기 위해선 다양한 요소들에 대해 고려를 해야하는데 추후에 글을 해봐야 겠다.
+하지만 전체 실행 시간으로 봤을땐 큰 차이가 없어 메모리/코어를 증설해야 성능 향상이 될 것 같다.
 ```
 ![standAlone-cluster-jobs](/image/spark/standAlone-cluster-jobs.png)<br><br><br>
 ![standAlone-cluster-stages](/image/spark/standAlone-cluster-stages.png)<br><br><br>

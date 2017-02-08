@@ -8,7 +8,8 @@ description: Spark StandAlone cluster
 
 ### 스파크 스탠드얼론 클러스터 요소
 ![clusterManager](/image/spark/clusterManager.png)
-스파크 홈페이지에서 상세 정보들을 제공한다. [Spark Cluster 참조링크](http://spark.apache.org/docs/latest/cluster-overview.html)
+스파크 홈페이지에서 상세 정보들을 제공한다.
+[Spark Cluster 참조링크](http://spark.apache.org/docs/latest/cluster-overview.html)
 ### 스탠드얼론 클러스터 실행
 ```
 1. $SPARK_HOME/bin/spark-submit를 사용하여 배포파일(.jar)을 빌드하는 방법
