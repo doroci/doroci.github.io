@@ -76,7 +76,7 @@ $SPARK_HOME/sbin/start-master.sh
 
 ### start-slave.sh 실행
 ```
-$SPARK_HOME/sbin/start-master.sh spark://localhost:7077
+$SPARK_HOME/sbin/start-slaves.sh spark://localhost:7077
 
 * spark://localhost:7077은 실행중인 master의 URL의 정보이다.
 ```
