@@ -11,13 +11,13 @@ description: Tuning Spark
 - [mastering-sparkbooks](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-tuning.html)
 <br><br>
 
-## 데이테셋 다운로드
+## 데이터셋 다운로드
 ```
 http://www-etud.iro.umontreal.ca/~bergstrj/audioscrobbler_data.html
 ```
 <br>
 
-![fileInfo](/image/spark/tuning-spark-fileInfo.png)
+![fileInfo](/image/spark/Tuning-Spark-FileInfo.png)
 
 <br><br>
 
