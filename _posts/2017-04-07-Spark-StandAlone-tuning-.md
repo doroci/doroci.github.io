@@ -15,7 +15,7 @@ description: Tuning Spark
 ```
 http://www-etud.iro.umontreal.ca/~bergstrj/audioscrobbler_data.html
 ```
-![ml-latest.zip](/image/spark/tuning-spark-fileInfo.png)
+![fileInfo](/image/spark/tuning-spark-fileInfo.png)
 <br><br>
 
 ## 소스 코드
