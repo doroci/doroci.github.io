@@ -40,7 +40,7 @@ Customer Key, Customer Secret, Access Token, Access Token Secret 정보를 얻�
 1. 앱 만들기
 ![createNewApp](/image/spark/twitter/createNewApp.png)
 2. 앱 정보 추가
-![signin](/image/spark/twitter/signin.png)<br><br>
+![signIn](/image/spark/twitter/signIn.png)<br><br>
 3. Key and Access Tokens 탭으로 이동
 ![keyAccess](/image/spark/twitter/keyAccess.png)<br><br>
 4. 토큰 생성
