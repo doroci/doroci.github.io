@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spark Streaming With Twitter
+title: 스파크를 사용한 트위터 스트리밍
 categories: [general, demo]
 tags: [demo, dbyll, dbtek]
 description: Spark Streaming with Twitter
@@ -132,7 +132,7 @@ object PopularTags extends App{
 ![result](/image/spark/twitter/twitter_result.png)
 
 
-## 결과 분석
+## 회고
 `전처리를 통해 가치 있는 데이터를 얻을 수 있도록 하는 작업을 추가로 해줘야겠다. `
 
 
