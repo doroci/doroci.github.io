@@ -47,10 +47,12 @@ description: simple music recommend
 ### ROC
 `ROC에서 y=x그래프는 Random Guess를 의미하며 y값이 커질수록 better값을 y값이 작아질수록 worst값을 의미한다.`
 `평면에서의 한 점의 좌표 x에 대해 (0,0) 일수록 보수적이며 (1,1)에 가까울수록 모험적인 의미를 나타낸다.`
-  - [ROC - Receiver operating characteristics](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+  - [en(위키피디아) - ROC(Receiver operating characteristics)](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+  - [ko(위키피디아) - ROC(Receiver operating characteristics)](https://ko.wikipedia.org/wiki/%EC%88%98%EC%8B%A0%EC%9E%90_%EC%A1%B0%EC%9E%91_%ED%8A%B9%EC%84%B1)
 
 ### AUC
-`AUC은 곡선 아래 영역라는 의미이다.`
+`AUC은 무작위로 선택한 좋은(good) 추천이 무작위로 선택한 나쁜(bad) 추보다 상위에 오를 확률이다.`
+ `또한 ROC curve의 밑면적을 계산한 값으로써 AUC=1.0에 가까울수록 가장 좋은 선택에 해당한다.`
  - [AUC - Area under the curve](https://en.wikipedia.org/wiki/Area_under_the_curve_(pharmacokinetics))
 
 > AUC - 1 함수
