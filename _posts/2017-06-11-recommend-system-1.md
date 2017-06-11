@@ -35,10 +35,10 @@ description: simple music recommend
 > unpersist 함수
 ![unpersist](/image/spark/advancedWithSpark/unpersist.png)
 
-> model1 함수
+> model - 1 함수
 ![model1](/image/spark/advancedWithSpark/model1.png)
 
-> model2 함수
+> model - 2 함수
 ![model2](/image/spark/advancedWithSpark/model2.png)
 
 > model 실행결과
@@ -53,13 +53,13 @@ description: simple music recommend
 `AUC은 곡선 아래 영역라는 의미이다.`
  - [AUC - Area under the curve](https://en.wikipedia.org/wiki/Area_under_the_curve_(pharmacokinetics))
 
-> AUC1 함수
+> AUC - 1 함수
 ![auc1](/image/spark/advancedWithSpark/auc1.png)
 
-> AUC2 함수
+> AUC - 2 함수
 ![auc2](/image/spark/advancedWithSpark/auc2.png)
 
-> AUC3 함수
+> AUC - 3 함수
 ![auc3](/image/spark/advancedWithSpark/auc3.png)
 
 > predictMostListened 함수
