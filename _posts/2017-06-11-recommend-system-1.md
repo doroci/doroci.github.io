@@ -3,7 +3,7 @@ layout: post
 title: 스파크를 사용하여 간단한 음악 추천 하기- 1
 categories: [general, demo]
 tags: [demo, dbyll, dbtek]
-description: simple SparkML
+description: simple music recommend 
 ---
 
 ## 예제 및 참고자료
